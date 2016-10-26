@@ -9,3 +9,6 @@ def circumference(r):
 
 def surface(r):
     return np.pi*r**2
+
+
+Fuck the police, jet fuel can't melt steel beams
